@@ -1,7 +1,7 @@
 # Script que entra nas contas da lista contas.txt (que tem um nome de conta por linha)
-# e cria um arquivo com a lista de aps usados pela conta. Vai abrir a conta pelo navegador
+# e cria um arquivo com a lista de apps usados pela conta. Vai abrir a conta pelo navegador
 # e é preciso validar manualmente a entrada em cada conta, para evitar questões
-# de excesso de uso do acesso
+# de acesso excessivo
 
 import os
 

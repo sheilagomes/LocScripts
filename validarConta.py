@@ -1,3 +1,6 @@
+# Script que valida o texto dentro de cada arquivo em uma pasta
+#  para ver se o conteúdo corresponde ao nome do arquivo
+
 conferidoOk, naoConsta = [], []
 ref_arquivo = open("contas.txt","r")
 
