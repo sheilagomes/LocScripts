@@ -1,5 +1,6 @@
-# Script que cria um arquivo language.txt com categorias globais
-# em formato par chave-valor
+# Script que cria arquivos *.txt com categorias globais
+# em formato par chave-valor, de acordo com os idiomas na
+# lista idiomas.txt que corrspondem a arquivos csv na pasta CSV
 
 
 import csv
