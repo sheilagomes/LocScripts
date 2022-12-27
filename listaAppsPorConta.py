@@ -1,6 +1,4 @@
-# Script que abre as listas de contas (contas.txt) e de apps (GERALexclusiva.txt)
-# e cruza os dados para criar outra lista (appsContas.txt) com as contas que usam
-# cada app
+# Abre as listas de contas (contas.txt) e de apps (GERALexclusiva.txt) e cruza os dados para criar outra lista (appsContas.txt) com as contas que usam cada app
 
 import re 
 

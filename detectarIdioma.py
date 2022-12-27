@@ -1,5 +1,4 @@
-# Script que detecta o idioma de cada linha de texto do arquivo original
-# e retorna um arquivo com o texto e a classificação ao lado de cada linha
+# Detecta o idioma de cada linha de texto do arquivo original e retorna um arquivo com o texto e a classificação ao lado de cada linha
 
 import pycld2 as cld2
 
